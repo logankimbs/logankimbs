@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/logankimbs/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=flat&logo=LinkedIn&logoColor=white"/>
   </a>
   <a href="https://twitter.com/logankimball_" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://github.com/logankimbs" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%231DA1F2.svg?&style=flat&logo=GitHub&logoColor=white"/>
   </a>
 </p>
 
